@@ -1,3 +1,6 @@
+#include <iostram>
+#include <string>
+
 int main()
 {
 
